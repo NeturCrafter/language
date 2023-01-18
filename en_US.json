@@ -164,7 +164,7 @@
     "message.playerIsNotNicked": "§cThe player §b{0}§c is not nicked!",
     "message.playerIsNicked": "§aThe player §b{0}§a is nicked.\n§fNick: §b{1}\n§fNick Rank: §b{2}\n§fCustom Skin: §b{3}",
     "message.playerUnnicked": "§aYou have successfully unnicked§b {0}§a!",
-    "message.skippedMap": "§bYou have successfully changed the map to§b {0}§a!",
+    "message.skippedMap": "§aYou have successfully changed the map to§b {0}§a!",
     "message.mapHasBeenChanged": "§aThe map has been successfully changed to§b {0}§a!",
     "message.mapChangeIn": "§6Map change in§7 {0}",
     "message.setup.protection": "§aBreak a block in the range of the spawn protection!",
@@ -204,6 +204,9 @@
     "item.name.teleporter": "§bTeleporter",
     "item.name.kit": "§bKit",
     "item.name.sortInv": "§bSort inventory",
+    "item.name.setup": "§bSetup",
+
+    "item.lore.setup": "§cRight click to leave\n§aDrop to skip stage",
 
     "ui.title.search": "§7Search player",
     "ui.title.settings": "§bSettings",

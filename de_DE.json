@@ -207,6 +207,9 @@
     "item.name.teleporter": "§bTeleporter",
     "item.name.kit": "§bKit",
     "item.name.sortInv": "§bInventar sortieren",
+    "item.name.setup": "§bSetup",
+
+    "item.lore.setup": "§cRechts click zum verlassen\n§aDroppen zum Stufe skippen",
 
     "ui.title.search": "§7Spieler Suche",
     "ui.title.settings": "§bEinstellungen",
