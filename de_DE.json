@@ -413,6 +413,7 @@
     "ui.button.removeParent": "§bParent entfernen",
     "ui.button.setRank": "§bRang ändern",
     "ui.button.setExtraRank": "§bExtra Rang ändern",
+    "ui.button.usedBy": "§bBenutzt von",
     "ui.button.remove": "§cEntfernen",
     "ui.button.cancel": "§cAbbrechen",
     "ui.button.close": "§cSchließen",
