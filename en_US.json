@@ -66,6 +66,7 @@
     "raw.random": "Random",
     "raw.ping": "Ping",
     "raw.maps": "Maps",
+    "raw.onlineTime": "Online time",
     "raw.undefined": "Undefined",
     "raw.none": "§cNone",
     "raw.enabled": "§aEnabled",
