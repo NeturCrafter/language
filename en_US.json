@@ -432,10 +432,10 @@
 
     "title.gameStart": "§aLet's go!",
 
-    "broadcasts": [
-      "§bDiscord: https://hades.com/discord",
-      "§aBuy Cosmetics with in-game coins!",
-      "§aUse /settings to configure your settings!"
-    ]
+    "broadcasts": {
+      "broadcast.joinDiscord": "§bDiscord: https://hades.com/discord",
+      "broadcast.buyCosmetics": "§aBuy Cosmetics with in-game coins!",
+      "broadcast.useSettings": "§aUse /settings to adjust your settings!"
+    }
   }
 }
