@@ -9,8 +9,8 @@
     "raw.name": "Name",
     "raw.rank": "Rank",
     "raw.ranks": "Ranks",
-    "raw.online": "§aOnline",
-    "raw.offline": "§cOffline",
+    "raw.online": "Online",
+    "raw.offline": "Offline",
     "raw.coins": "Coins",
     "raw.coin": "Coin",
     "raw.nick": "Nick",
@@ -432,10 +432,10 @@
 
     "title.gameStart": "§aLet's go!",
 
-    "broadcasts": {
-      "broadcast.joinDiscord": "§bDiscord: https://hades.com/discord",
-      "broadcast.buyCosmetics": "§aBuy Cosmetics with in-game coins!",
-      "broadcast.useSettings": "§aUse /settings to adjust your settings!"
-    }
+    "broadcasts": [
+      "§bDiscord: https://hades.com/discord",
+      "§aBuy Cosmetics with in-game coins!",
+      "§aUse /settings to adjust your settings!"
+    ]
   }
 }
