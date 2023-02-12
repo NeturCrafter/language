@@ -171,6 +171,7 @@
     "message.finishedStage": "§aYou have successfully configured the§b {0}§a stage!",
     "message.newStage": "§aPlease configure the§b {0}§a stage now!",
     "message.finishedSetup": "§aYou have successfully finished the setup!",
+    "message.spectatingPlayer": "§aYou're spectating§b {0}§a now!",
 
     "command.description.jumpandrun": "Configure the JumpAndRun",
     "command.description.build": "Toggle the build mode",
@@ -430,7 +431,7 @@
     "title.gameStart": "§aLet's go!",
 
     "broadcasts": [
-      "§1Discord: https://hades.com/discord",
+      "§1Discord:§f https://hades.com/discord",
       "§aBuy Cosmetics with in-game coins!",
       "§aUse /settings to adjust your settings!"
     ]
