@@ -191,6 +191,7 @@
     "command.description.kit": "Equip a kit",
 
     "item.name.cosmetics": "§bCosmetics",
+    "item.name.profile": "§bProfile",
     "item.name.vote": "§bVote",
     "item.name.backToHub": "§cBack to Hub",
     "item.name.stats": "§bStats",
@@ -199,12 +200,15 @@
     "item.name.settings": "§bSettings",
     "item.name.spectate": "§bSpectate",
     "item.name.cheer": "§bCheer",
+    "item.name.leave": "§cLeave",
     "item.name.leaveSpectate": "§cLeave Spectate",
     "item.name.teleporter": "§bTeleporter",
     "item.name.kit": "§bKit",
     "item.name.sortInv": "§bSort inventory",
     "item.name.setup": "§bSetup",
     "item.name.spins": "§b{0}§a Spins",
+    "item.name.lastCheckpoint": "§aLast checkpoint",
+    "item.name.reset": "§cReset",
 
     "item.lore.setup": "§cRight click to leave\n§aDrop to skip stage",
 

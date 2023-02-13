@@ -194,6 +194,7 @@
     "command.description.kit": "",
 
     "item.name.cosmetics": "§bKosmetiks",
+    "item.name.profile": "§bProfil",
     "item.name.vote": "§bVote",
     "item.name.backToHub": "§cZurück zum Hub",
     "item.name.stats": "§bStatistiken",
@@ -202,12 +203,15 @@
     "item.name.settings": "§bEinstellungen",
     "item.name.spectate": "§bZuschauen",
     "item.name.cheer": "§bAnfeuern",
+    "item.name.leave": "§cVerlassen",
     "item.name.leaveSpectate": "§cZuschauer Modus verlassen",
     "item.name.teleporter": "§bTeleporter",
     "item.name.kit": "§bKit",
     "item.name.sortInv": "§bInventar sortieren",
     "item.name.setup": "§bSetup",
     "item.name.spins": "§b{0}§a Spins",
+    "item.name.lastCheckpoint": "§aLetzter checkpoint",
+    "item.name.reset": "§cVon vorn starten",
 
     "item.lore.setup": "§cRechts click zum verlassen\n§aDroppen zum Stufe skippen",
 
