@@ -106,7 +106,7 @@
     "message.customSetupSaved": "{PREFIX}§aYour custom§b {0}§a cosmetics have been saved successfully!",
     "message.customSetup": "{PREFIX}§aYou are now in setup mode for custom§b {0}§a cosmetics!§7 Sneak when you're done.",
     "message.reachedCheckpoint": "{PREFIX}§aYou have reached the Checkpoint§f #{0}§a!",
-    "message.jumpandrunStarted": "{PREFIX}§aYou have started the Jump and Run. The current top time is§b {0}§a, can you beat that?",
+    "message.jumpandrunStarted": "{PREFIX}§aYou have started the Jump and Run!",
     "message.toppedTime": "{PREFIX}§aYou have topped the§f {0}.§a place with a time of§b {1}§a!",
     "message.countdownIsNotStarted": "§cYou can't skip the countdown, because he haven't started yet!",
     "message.gameIsAlreadyRunning": "§cYou can't skip the countdown, because the game is already running!",
@@ -204,6 +204,7 @@
     "item.name.kit": "§bKit",
     "item.name.sortInv": "§bSort inventory",
     "item.name.setup": "§bSetup",
+    "item.name.spins": "§b{0}§a Spins",
 
     "item.lore.setup": "§cRight click to leave\n§aDrop to skip stage",
 
@@ -228,6 +229,8 @@
     "ui.title.blockBreakTime": "§bBlock break time",
     "ui.title.mapChangeTime": "§bMap change time",
     "ui.title.setup": "§bSetup",
+    "ui.title.spins": "§bSpins",
+    "ui.title.lotto": "§eLotto",
     "ui.description.informations": "Please choose which information you want to see.",
     "ui.description.rules": "§cThe rules are:\n\n§81.§c No hacking\n§82.§c No spamming\n§83.§c No insults\n§84.§c Fair playing\n§85.§c No advertising§7 (except Hades)\n§86.§c No recruitment of team members or players\n§87.§c No bug abuse§7 (report bugs)\n§cThe rules must be complied with without exception and violations will result in a ban/mute if the rules are repeatedly broken.",
     "ui.description.links": "§1Discord Server:\n  §8»§f https://hades.com/discord\n§aVote Link:\n  §8»§f https://hades.com/vote\n§cYouTube Channel:\n  §8»§f https://hades.com/youtube",
@@ -293,6 +296,7 @@
     "ui.element.parents": "Parents",
     "ui.element.selectUser": "Select a User",
     "ui.element.searchPlayer": "Search a Player§7 (leave empty if selected)",
+    "ui.button.playAgain": "§aPlay again",
     "ui.button.gadgets": "§bGadgets",
     "ui.button.itemrains": "§bItem Rains",
     "ui.button.particles": "§bParticles",
@@ -415,7 +419,7 @@
     "ui.button.close": "§cClose",
     "ui.button.back": "§cBack",
 
-    "popup.welcomeToHades": "§aWelcome to §cHades",
+    "popup.welcome": "§aWelcome to §cHades",
     "popup.sneakWhenDone": "§aSneak when you're done.",
     "popup.finishedJumpAndRun": "§l§b Jump and Run§a finished!\n§r§bTime:§f {0}",
     "popup.spawnTeleport": "§aYou will teleport to the spawn in§b {0}§a seconds!",
