@@ -1,2 +1,4 @@
 de_DE
 en_US
+gr_GR
+tr_TR
