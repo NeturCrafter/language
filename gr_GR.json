@@ -152,7 +152,7 @@
     "message.requestedBy": "§aΈχετε προκληθεί από§b {0}§a!",
     "message.requested": "§aΈχετε προκληθεί με επιτυχία§b {0}§a!",
     "message.requestChargedBack": "§aΧρεώσατε με επιτυχία το αίτημα πρόκλησης§b {0}§a!",
-    "message.joinedQueue": "§aΜπήκατε στην§b {0}§a ουρά αναμονής!",
+    "message.joinedQueue": "§aΜπήκατε στην ουρά αναμονής!",
     "message.leftQueue": "§cΦύγατε από την ουρά αναμονής!",
     "message.youBrokeBed": "§aΈσπασες το κρεβάτι της ομάδας§b {0}§a!",
     "message.yourBedHasBeenBroken": "§cΤο κρεβάτι σου έχει σπάσει από§b {0}§c!",

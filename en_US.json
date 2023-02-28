@@ -152,7 +152,7 @@
     "message.requestedBy": "§aYou have been challenged by§b {0}§a!",
     "message.requested": "§aYou have successfully challenged§b {0}§a!",
     "message.requestChargedBack": "§aYou have successfully charged back the challenge request to§b {0}§a!",
-    "message.joinedQueue": "§aYou joined the§b {0}§a Queue!",
+    "message.joinedQueue": "§aYou joined the Queue!",
     "message.leftQueue": "§cYou left the Queue!",
     "message.youBrokeBed": "§aYou broke the bed of the team§b {0}§a!",
     "message.yourBedHasBeenBroken": "§cYour bed has been broken by§b {0}§c!",

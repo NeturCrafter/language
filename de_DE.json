@@ -155,7 +155,7 @@
     "message.requestedBy": "§aDu wurdest von§b {0}§a herausgefordert!",
     "message.requested": "§aDu hast§b {0}§a erfolgreich herausgefordert!",
     "message.requestChargedBack": "§aDu hast den die Herausforderung an§b {0}§a erfolgreich zurückgezogen!",
-    "message.joinedQueue": "§aDu hast die§b {0}§a Warteschlange betreten!",
+    "message.joinedQueue": "§aDu hast die Warteschlange betreten!",
     "message.leftQueue": "§cDu hast die Warteschlange verlassen!",
     "message.youBrokeBed": "§aDu hast das Bett von Team§b {0}§a zerstört!",
     "message.yourBedHasBeenBroken": "§cDein Bett wurde von§b {0}§c zerstört!",
