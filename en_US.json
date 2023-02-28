@@ -311,7 +311,7 @@
     "ui.element.searchPlayer": "Search a Player§7 (leave empty if selected)",
     "ui.button.miniGames": "§bMiniGames",
     "ui.button.playAgain": "§aPlay again",
-    "ui.button.fire": "§aFire!",
+    "ui.button.fire": "§aFire",
     "ui.button.lookUp": "§bLook up",
     "ui.button.lookDown": "§bLook down",
     "ui.button.gadgets": "§bGadgets",
