@@ -53,6 +53,8 @@
     "raw.defeats": "Kaybetme",
     "raw.kdr": "K/D",
     "raw.winChance": "Kazanma Şansı",
+    "raw.chance": "TODO!",
+    "raw.item": "TODO!",
     "raw.beds": "Kırılan Yataklar",
     "raw.page": "Sayfa",
     "raw.streak": "Üst üste kazanım",
@@ -154,6 +156,7 @@
     "message.newStage": "§aLütfen şimdi yapılandırın§b {0}§a aşaması!",
     "message.finishedSetup": "§aBaşarıyla kurulumu bitirdiniz!",
     "message.spectatingPlayer": "§aŞu anda izliyorsunuz§b {0}§a !",
+    "message.gotReward": "TODO!",
 
     "command.description.jumpandrun": "ZıplaVeKoş'u Yapılandır",
     "command.description.build": "Yapı modunu aktif et",

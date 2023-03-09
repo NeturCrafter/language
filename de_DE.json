@@ -54,6 +54,8 @@
     "raw.defeats": "Niederlagen",
     "raw.kdr": "K/D",
     "raw.winChance": "Gewinnchance",
+    "raw.chance": "Wahrscheinlichkeit",
+    "raw.item": "Item",
     "raw.beds": "Abgebaute Betten",
     "raw.page": "Seite",
     "raw.streak": "Streak",
@@ -158,6 +160,7 @@
     "message.newStage": "§aBitte konfiguriere nun§b {0}§a!",
     "message.finishedSetup": "§aDu hast das Setup erfolgreich abgeschlossen!",
     "message.spectatingPlayer": "§aDu beobachtest nun§b {0}§a!",
+    "message.gotReward": "§aDu hast den§b {0}§a Preis bekommen!",
 
     "command.description.build": "Schalte den build Modus um",
     "command.description.translate": "Übersetze eine Nachricht in eine bestimmte Sprache",

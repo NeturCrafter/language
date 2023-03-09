@@ -53,6 +53,8 @@
     "raw.defeats": "Ήττες",
     "raw.kdr": "Φ/Θ",
     "raw.winChance": "Πιθανότητα Νίκης",
+    "raw.chance": "TODO!",
+    "raw.item": "TODO!",
     "raw.beds": "Σπασμένα κρεβάτια",
     "raw.page": "Σελίδα",
     "raw.streak": "Σερί",
@@ -154,6 +156,7 @@
     "message.newStage": "§aΠαρακαλώ διαμοτφώστε το§b {0}§a στάδιο τώρα!",
     "message.finishedSetup": "§aΟλοκληρώσατε με επιτυχία τη ρύθμιση!",
     "message.spectatingPlayer": "§aΠαρακολουθείς§b {0}§a τώρα!",
+    "message.gotReward": "TODO!",
 
     "command.description.jumpandrun": "Ρυθμίστε το JumpAndRun",
     "command.description.build": "Ενεργοποίηση της λειτουργίας κατασκευής",

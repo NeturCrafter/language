@@ -53,6 +53,8 @@
     "raw.defeats": "Defeats",
     "raw.kdr": "K/D",
     "raw.winChance": "Win Chance",
+    "raw.chance": "Chance",
+    "raw.item": "Item",
     "raw.beds": "Broken Beds",
     "raw.page": "Page",
     "raw.streak": "Streak",
@@ -154,6 +156,7 @@
     "message.newStage": "§aPlease configure the§b {0}§a stage now!",
     "message.finishedSetup": "§aYou have successfully finished the setup!",
     "message.spectatingPlayer": "§aYou're spectating§b {0}§a now!",
+    "message.gotReward": "§aYou got the§b {0}§a Reward!",
 
     "command.description.jumpandrun": "Configure the JumpAndRun",
     "command.description.build": "Toggle the build mode",
