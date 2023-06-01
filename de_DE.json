@@ -162,7 +162,7 @@
     "message.spectatingPlayer": "§aDu beobachtest nun§b {0}§a!",
     "message.gotReward": "§aDu hast den§b {0}§a Preis bekommen!",
 
-    "command.description.build": "Schalte den build Modus um",
+    "command.description.build": "Schalte den Baumodus um",
     "command.description.translate": "Übersetze eine Nachricht in eine bestimmte Sprache",
     "command.description.fly": "Schalte fliegen um",
     "command.description.language": "Sprach Informationen",
